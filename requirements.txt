@@ -1,0 +1,2 @@
+# No external packages required.
+# Tkinter is used for the simple UI.

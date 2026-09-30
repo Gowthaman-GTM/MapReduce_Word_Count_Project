@@ -1,0 +1,3 @@
+MapReduce divides a large processing task into map and reduce stages.
+The map stage creates key value pairs.
+The reduce stage combines values for each key.

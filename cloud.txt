@@ -1,0 +1,3 @@
+Cloud computing provides distributed computing resources.
+Cloud systems can process large amounts of data.
+Cloud computing supports scalable data processing.

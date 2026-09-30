@@ -1,0 +1,3 @@
+Distributed systems use multiple workers to process data in parallel.
+Distributed workers can process different partitions.
+More workers can improve processing capacity for large workloads.

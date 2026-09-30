@@ -1,0 +1,7 @@
+Cloud computing provides distributed computing resources.
+Distributed systems process large amounts of data across multiple workers.
+Cloud systems can scale by adding more workers when the workload increases.
+MapReduce divides a large data processing task into map and reduce stages.
+The map stage creates key value pairs, while the reduce stage combines values.
+Distributed workers can process different data partitions in parallel.
+Cloud computing and distributed systems support scalable data processing.
